@@ -46,7 +46,7 @@ class Calculator{
                 cout<<endl<<"Do you want to try again? (y/n): ";
                 cin >> choice;
             }while(choice=='Y'||choice=='y');
-            cout<<"Discontinue!";
+            cout<<"Discontinued!";
         }
 };
 int main(){
